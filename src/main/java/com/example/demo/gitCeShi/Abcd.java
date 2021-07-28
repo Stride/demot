@@ -5,5 +5,4 @@ public class Abcd {
     String abc = "sjkf";
 
 
-    Integer a = 127;
 }
